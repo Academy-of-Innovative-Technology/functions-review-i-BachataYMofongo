@@ -25,11 +25,10 @@ function calculateArea(){
     let output1 = document.querySelector("#output1");
     output1.innerHTML = "The area of a 10x6 rectangle is 60 square units.";
 }
-function favoriteColor(){
-    let output1 = document.querySelector("#output1");
+ function favoriteColor(){
+    let output1 = document.querySelector("output1");
     output1.innerHTML = "Your favorite color is blue! 🎨";
-}
-
+ }
 
 
 
